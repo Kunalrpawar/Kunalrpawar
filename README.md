@@ -76,6 +76,45 @@
   </a>
 </p>
 
+
+<!-- Option 1: Updated for your username -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunalrpawar/kunalrpawar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunalrpawar/kunalrpawar/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kunalrpawar/kunalrpawar/output/github-snake.svg" />
+</picture>
+
+<!-- Option 2: With custom styling and center alignment -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunalrpawar/kunalrpawar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunalrpawar/kunalrpawar/output/github-snake.svg" />
+    <img alt="Kunal's GitHub Contribution Snake" src="https://raw.githubusercontent.com/kunalrpawar/kunalrpawar/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<!-- Option 3: With section header and styling -->
+<h2 align="center">🐍 Watch my commits get eaten!</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunalrpawar/kunalrpawar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunalrpawar/kunalrpawar/output/github-snake.svg" />
+    <img alt="Snake animation showing Kunal's GitHub contributions" src="https://raw.githubusercontent.com/kunalrpawar/kunalrpawar/output/github-snake.svg" />
+  </picture>
+</div>
+
+<!-- Option 4: Using external snake generator (no setup required) -->
+<div align="center">
+  <img src="https://github.com/kunalrpawar/kunalrpawar/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<!-- Option 5: Alternative snake service -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+</div>
+
+
+
 ## ☕ Support My Work
 
 <div align="center">
