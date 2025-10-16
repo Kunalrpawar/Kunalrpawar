@@ -56,15 +56,6 @@
   </a>
 </p>
 
-## 🐍 Watch my commits get eaten!
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunalrpawar/kunalrpawar/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunalrpawar/kunalrpawar/output/github-snake.svg" />
-    <img alt="Snake animation showing Kunal's GitHub contributions" src="https://raw.githubusercontent.com/kunalrpawar/kunalrpawar/output/github-snake.svg" />
-  </picture>
-</div>
 
 ## ☕ Support My Work
 
