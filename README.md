@@ -30,11 +30,7 @@
   <img src="https://streak-stats.demolab.com/?user=kunalrpawar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunalrpawar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
 
 ## 📈 Contribution Graph
 
